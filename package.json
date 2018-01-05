@@ -1,0 +1,22 @@
+{
+  "name": "empty-machine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarkMarmot/empty-machine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarkMarmot/empty-machine/issues"
+  },
+  "homepage": "https://github.com/DarkMarmot/empty-machine#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
