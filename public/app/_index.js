@@ -16,6 +16,17 @@ Machine.cog({
 
     },
 
+    states: {
+        house_list: {}
+    },
+
+    traits: [
+
+        {url: 'FETCH', api: 'HOUSES_API', response: 'house_list', auto: true}
+
+    ],
+
+
     cogs: {
         main: {url: 'main.js'}
     },
